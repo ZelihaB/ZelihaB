@@ -22,6 +22,13 @@ Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scie
   ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+  ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
+
 
 - 🎓 **Education:** MBA in Business Administration with a focus on Operational Research. Bachelor’s degrees in Computer Engineering and Economics & Mathematics.
 - 🏢 **Professional Experience:** Over a decade of experience in the airline industry, enhancing revenue management and operational efficiency.
@@ -51,7 +58,7 @@ Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scie
 ## Contact Me
 
 - 📧 Email: [zelihabagciaj@gmail.com](mailto:zelihabagciaj@gmail.com)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/zelihabagci/](https://www.linkedin
+- 🔗 LinkedIn: [https://www.linkedin.com/in/zelihabagci/](https://www.linkedin.com/in/zelihabagci/)
 ## 🔥 My Stats
 
 ![Zeliha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZELIHAB&show_icons=true&theme=radical)
