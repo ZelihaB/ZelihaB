@@ -4,7 +4,7 @@ Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scie
 
 ## About Me
 
-- 📈 **Expertise:** Advanced analytics, machine learning, predictive modeling, and data engineering.
+- 📈 **Expertise:** Advanced analytics, machine learning, predictive modeling,generative AI and data engineering.
 - 💻 **Programming Languages and Tools:**
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -30,7 +30,7 @@ Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scie
   ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
 
 
-- 🎓 **Education:** MBA in Business Administration with a focus on Operational Research. Bachelor’s degrees in Computer Engineering and Economics & Mathematics.
+- 🎓 **Education:** MS in Applied Data Science and MBA in Business Administration with a focus on Operational Research. Bachelor’s degrees in Computer Engineering and Economics & Mathematics.
 - 🏢 **Professional Experience:** Over a decade of experience in the airline industry, enhancing revenue management and operational efficiency.
 
 ## Projects
@@ -50,10 +50,22 @@ Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scie
 
 ## Skills
 
-- Advanced data analysis and machine learning.
-- Revenue management and optimization.
-- Strategic planning and problem-solving.
-- Leadership and project management.
+- Advanced Data Analytics and Machine Learning Forecasting
+- Dynamic Pricing, Demand Optimization and Revenue Maximization
+- Strategic Planning and Crisis management
+- Motivational and Insprational Leadership and Project Management
+- Information and Dissemination 
+- Development Leadership
+- Process Management
+- Critical Thinking and Crisis Resolution
+- Ethical Integrity
+- Stakeholder Communication
+- Tutoring in Data Science
+- Correspondings and Communication 
+- Data Visualization Transformation
+- Innovative Solutions and Process Development
+- Compliance and Risk Management
+
 
 ## Contact Me
 
