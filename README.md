@@ -2,6 +2,20 @@
 
 Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scientist with over 10 years of expertise in leveraging data to drive business success. My work focuses on dynamic pricing, revenue management optimization, demand forecasting, and delivering operational improvements within the airline industry.
 
+## 🌟 Inspiration
+
+In a world driven by data and algorithms, it's easy to overlook the human elements of perseverance, creativity, and the relentless pursuit of knowledge. My journey in data science is not just about the technologies and models, but about the stories they tell and the problems they solve.
+
+"Believe in the power of data to transform the world. Let curiosity lead you, let determination drive you, and let innovation be your path to making a difference."
+
+Each project, each line of code, and each dataset tells a story of challenge and discovery. Behind every function and model lies a lesson learned, a boundary pushed. Remember, the most complex problems often need the simplest solutions, guided by clarity of thought and purpose.
+
+As we dive into the vast sea of data, let's not just seek answers but understand the questions better. Let's innovate not just for the sake of innovation, but to make meaningful impacts that resonate beyond the bytes and pixels.
+
+To everyone on their data science journey, keep pushing the boundaries, keep asking 'why', and never stop learning. The path is challenging, but the rewards are immense, not just in the solutions we create but in the growth we experience along the way.
+
+"Data is the canvas, technology is the brush, but the artist... is you."
+
 ## About Me
 
 - 📈 **Expertise:** Advanced analytics, machine learning, predictive modeling,generative AI and data engineering.
@@ -53,10 +67,7 @@ Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scie
 - Advanced Data Analytics and Machine Learning Forecasting
 - Dynamic Pricing, Demand Optimization and Revenue Maximization
 - Strategic Planning and Crisis management
-- Motivational and Insprational Leadership and Project Management
-- Information and Dissemination 
-- Development Leadership
-- Process Management
+- Motivational and Inspirational  Leadership and Project Management
 - Critical Thinking and Crisis Resolution
 - Ethical Integrity
 - Stakeholder Communication
