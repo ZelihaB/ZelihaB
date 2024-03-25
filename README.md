@@ -2,20 +2,6 @@
 
 Welcome to my Data Science portfolio! I'm Zeliha Bagci, an experienced Data Scientist with over 10 years of expertise in leveraging data to drive business success. My work focuses on dynamic pricing, revenue management optimization, demand forecasting, and delivering operational improvements within the airline industry.
 
-## 🌟 Inspiration
-
-In a world driven by data and algorithms, it's easy to overlook the human elements of perseverance, creativity, and the relentless pursuit of knowledge. My journey in data science is not just about the technologies and models, but about the stories they tell and the problems they solve.
-
-"Believe in the power of data to transform the world. Let curiosity lead you, let determination drive you, and let innovation be your path to making a difference."
-
-Each project, each line of code, and each dataset tells a story of challenge and discovery. Behind every function and model lies a lesson learned, a boundary pushed. Remember, the most complex problems often need the simplest solutions, guided by clarity of thought and purpose.
-
-As we dive into the vast sea of data, let's not just seek answers but understand the questions better. Let's innovate not just for the sake of innovation, but to make meaningful impacts that resonate beyond the bytes and pixels.
-
-To everyone on their data science journey, keep pushing the boundaries, keep asking 'why', and never stop learning. The path is challenging, but the rewards are immense, not just in the solutions we create but in the growth we experience along the way.
-
-"Data is the canvas, technology is the brush, but the artist... is you."
-
 ## About Me
 
 - 📈 **Expertise:** Advanced analytics, machine learning, predictive modeling,generative AI and data engineering.
@@ -87,4 +73,20 @@ To everyone on their data science journey, keep pushing the boundaries, keep ask
 ![Zeliha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZELIHAB&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZELIHAB&layout=compact&theme=radical)
+
+## 🌟 Inspiration
+
+From the intricate dance of numbers and patterns, my journey through the realm of data science has been both a challenge and a revelation. As Zeliha Bagci, my path has been shaped by a deep passion for unveiling the stories hidden within data, transforming the airline industry's approach to dynamic pricing and revenue management along the way.
+
+"Embrace the journey, for every dataset unravels a story waiting to be told. Let your curiosity chart the course and your determination fuel the voyage. Innovation is not just about finding answers but about changing the perspective."
+
+In the ever-evolving landscape of data, I've found that the most profound insights often emerge from the simplest of queries. My mission has been to not only predict trends but to understand the human desires driving those numbers. This blend of analytics and empathy has powered my approach, aiming to optimize not just revenues but customer satisfaction and operational efficiency.
+
+Through years of harnessing the power of Python, R, SQL, and cloud technologies, I've learned that the essence of data science lies in its ability to make impactful decisions that resonate far beyond the confines of spreadsheets and code. It's about crafting a narrative that guides strategic planning and ignites innovation.
+
+To those embarking on their data science journey, remember: the path is woven with challenges, but each obstacle is a stepping stone to discovery. Keep exploring, stay relentless in your pursuit of knowledge, and let your work tell the tales of data not just as numbers, but as catalysts of change.
+
+"In a symphony of algorithms and insights, remember that you are the conductor. Let your passion for data craft the melody of innovation and your vision for a better world drive the harmony."
+
+
 
